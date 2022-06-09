@@ -2,7 +2,7 @@ title = "Dave Cramer"
 author = "Dave Cramer"
 copyright = "{{ YEAR }} Dave Cramer"
 description = ""
-profilePicture = "images/profile.jpt"
+profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
